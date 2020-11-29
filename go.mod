@@ -1,4 +1,4 @@
-module github.com/influxdata/influxql
+module github.com/aiven/influxql
 
 go 1.13
 
